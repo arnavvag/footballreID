@@ -1,4 +1,4 @@
-# Soccer Player & Ball Tracking with YOLOv8 and DeepSORT
+# Soccer Player & Ball Tracking with YOLOv and DeepSORT
 
 ## 📋 Project Overview
 
